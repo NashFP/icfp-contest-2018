@@ -45,7 +45,7 @@ be to do an SMove in the X direction by 1 voxel, so you'll be at 1,0,0. Then
 do a Fill in the direction (0,0,1), which would fill the voxel at 1,0,1. Then
 SMove in the X direction by -1 voxel, so you're back to 0,0,0, and then
 execute a Halt instruction. If you do this, the generated trace file should
-contain the bytes: 14 10 73 14 0e ff
+contain the hex bytes: 14 10 73 14 0e ff
 
 Here's how that breaks down:
 ```
