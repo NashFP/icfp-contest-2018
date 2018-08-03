@@ -6,7 +6,7 @@ Generating instructions for a 3-D printing robot
 
 The task for the [2018 ICFP Programming Contest](https://icfpcontest2018.github.io/) was to generate instructions
 for one or more flying nanobots to generate a replica of a given 3-D model.
-The full task description is here: "[2018 ICFP Contest Task](https://icfpcontest2018.github.io/full/task-description.html)"
+The full task description is here: [2018 ICFP Contest Task](https://icfpcontest2018.github.io/full/task-description.html).
 
 Mark Wutka decided to do the task in Go for the contest this year, and then
 presented his solution to us as well as some of his reasons for choosing
